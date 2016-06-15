@@ -1,0 +1,2 @@
+# BaseRecyclerViewAdapterHelper
+根据简书上陈玉明的文章《RecyclerView.Adapter优化了吗？》中的代码做了一些修改，这个adapter实现了传统的下拉刷新样式
